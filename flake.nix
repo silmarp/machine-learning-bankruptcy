@@ -15,7 +15,7 @@
     in rec {
       devShell = pkgs.mkShell {
         buildInputs = with pkgs; [
-          (python3.withPackages(ps: with ps; [
+          (python311.withPackages(ps: with ps; [
             ipython
             jupyter
             numpy
