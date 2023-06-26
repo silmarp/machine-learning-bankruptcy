@@ -1,1 +1,1 @@
-# machine-learning-bankruptcy
+# machine-learning-creditcard-fraud
